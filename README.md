@@ -1,1 +1,1 @@
-** Daily utilising every library of c and c++ on the https://cplusplus.com/reference/cassert/ website to widen my capabilities and become more effective at solving a wide arrange of problems.
+Daily utilising every library of c and c++ on the https://cplusplus.com/reference/cassert/ website to widen my capabilities and become more effective at solving a wide arrange of problems.
