@@ -59,7 +59,16 @@ int main ()
     std::cout << "Double minimum epsilon: " << DBL_MIN_EXP << std::endl;
     std::cout << "long Double minimum epsilon: " << LDBL_MIN_EXP << std::endl << std::endl;
 
-    // others (tbc)
+    
+    std::cout << "*****************************" << std::endl;
+
+    // Rounding mode (FLT_ROUNDS)
+    std::cout << "Float rounds: " << FLT_ROUNDS << std::endl << std::endl;
+
+    std::cout << "*****************************" << std::endl;
+
+    // Evaluation for expressions (FLT_EVAL_METHOD)
+    std::cout << "Float eval method: " << FLT_EVAL_METHOD << std::endl << std::endl;
 
     return 0;
 }   
@@ -68,6 +77,8 @@ int main ()
 Notes:
 - In c and c++, float.h contains the constants that represent the implementation-specific characteristics of the 
 floating-point types in a particular system. It defines macros that specify the limits.
+
+- Might be easier to use <limits> rather than system dependent constraints, but good to know what they are.
 
 - These constants are helpful when dealing with numerical computations 
 where knowledge of the precision and range of floating-point types is crucial.
