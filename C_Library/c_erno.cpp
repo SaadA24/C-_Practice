@@ -1,6 +1,6 @@
 #include <iostream>
 #include <cerrno> // global error value for functions
-#include <stdio.h> // for file operations
+#include <cstdio> // for file operations
 
 int main() 
 {
