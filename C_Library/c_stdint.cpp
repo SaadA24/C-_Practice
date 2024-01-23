@@ -97,5 +97,4 @@ PRIdMAX or PRIuMAX:
 - I: Integer argument.
 - d: Is signed decimal integer
 - u: unsigned decimal integer
-
 */
