@@ -32,5 +32,6 @@ int main() {
 /*
 Notes:
 - Main use cases are for printf and scanf so they can take various arguments to format the input/output
+- Useful for handling different numbers and types of arguments in a flexible way
 - Remember variable functions can be error prone and function doesn't state how many arguments
 */
