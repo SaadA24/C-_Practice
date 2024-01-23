@@ -1,5 +1,5 @@
 #include <iostream>
-#include <limits.h>
+#include <climits>
 
 int main () {
     std::cout << "Number of bits in a char: " << CHAR_BIT << " bits" << std::endl;
