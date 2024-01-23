@@ -1,5 +1,5 @@
 #include <iostream>
-#include <errno.h> // global error value for functions
+#include <cerrno> // global error value for functions
 #include <stdio.h> // for file operations
 
 int main() 

@@ -1,6 +1,6 @@
 #include <iostream>
-#include <fenv.h>
-#include <math.h>
+#include <cfenv>
+#include <cmath>
 #pragma STDC FENV_ACCESS on // If set to on, the program can access the floating-point environment to test exceptions or run compiler control modes
 
 int main ()

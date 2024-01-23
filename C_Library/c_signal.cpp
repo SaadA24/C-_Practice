@@ -1,5 +1,5 @@
 #include <iostream>
-#include <signal.h>
+#include <csignal>
 
 //Global flag to shut down application (volatile: can change. sig... istype of signal)
 volatile sig_atomic_t shutdownFlag = 0;

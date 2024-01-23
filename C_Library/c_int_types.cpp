@@ -1,4 +1,4 @@
-#include <inttypes.h> // width-based integral types
+#include <cinttypes> // width-based integral types
 #include <iostream>
 #include <stdio.h>
 

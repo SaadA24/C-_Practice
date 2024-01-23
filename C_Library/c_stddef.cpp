@@ -1,5 +1,5 @@
 #include <iostream>
-#include <stddef.h> //std def - standard definition
+#include <cstddef> //std def - standard definition
 
 // Access NULL Type
 #define NULL ((void *)0)

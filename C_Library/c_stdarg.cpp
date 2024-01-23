@@ -1,5 +1,5 @@
 #include <iostream>
-#include <stdarg.h>
+#include <cstdarg>
 
 int sum(int count, ...)
 {

@@ -1,5 +1,5 @@
 #include <iostream>
-#include <assert.h>
+#include <cassert>
 
 int main() {
     std::string helloWorld = "Hello World!";
