@@ -1,7 +1,7 @@
 #include <iostream>
 #include <list>
 
-// Function to display the contents of a list
+// Function to display the contents of list
 void displayList(const std::list<int>& myList) {
     for (const auto& element : myList) {
         std::cout << element << " ";
