@@ -10,11 +10,7 @@ void displayList(const std::list<int>& myList) {
 }
 
 int main() {
-<<<<<<< HEAD
-    // Declare a lis
-=======
     // Declare a list
->>>>>>> 382c0322cd5a9134ff741028c2212dac12833fbe
     std::list<int> myList;
 
     // Modifiers
