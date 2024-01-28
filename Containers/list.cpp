@@ -10,7 +10,7 @@ void displayList(const std::list<int>& myList) {
 }
 
 int main() {
-    // Declare a list
+    // Declare a lis
     std::list<int> myList;
 
     // Modifiers
