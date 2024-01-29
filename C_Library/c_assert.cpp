@@ -10,7 +10,7 @@ int main() {
 /*
 
 Notes:
-- returns: Assertion failed: expression, file filename, line line number
+- returns: Assertion failed: expression, file filename, line number
 - Assertion failed: helloWorld == "", file assert.cpp, line 8
 
 */
